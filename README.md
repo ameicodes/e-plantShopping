@@ -4,8 +4,7 @@
 
 ## 🚀 Live Demo
 
-https://akd6203.github.io/e-plantShopping/
-
+https://ameicodes.github.io/e-plantShopping/
 ---
 
 ## 🛠 Features
